@@ -1,2 +1,2 @@
 # Raffle_simulator
-raffle simulator based on artisan cap raffles. 1 input, range 1600, if input matches 1 of 10 draw results = Win. else L.
+Raffle simulator based on artisan keycap raffles. 1 input from the user, range 1-1600. If user input matches 1 of 10 draw results = Win. else L.
